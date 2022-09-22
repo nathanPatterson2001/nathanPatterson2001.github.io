@@ -4,6 +4,7 @@ h1 {
 
 .flex-container {
   display: flex;
+  flex-direction: column;  
   background-color: DodgerBlue;
 }
 
