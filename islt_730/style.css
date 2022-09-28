@@ -18,3 +18,12 @@ h1 {
 .grow { transition: all .2s ease-in-out; }
 
 .grow:hover { transform: scale(1.1); }
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
+
+p {
+  font-family: myFirstFont;
+}
