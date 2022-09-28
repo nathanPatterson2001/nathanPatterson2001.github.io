@@ -14,3 +14,8 @@ h1 {
   padding: 20px;
   font-size: 30px;
 }
+
+footer:hover {
+    font-size-adjust: 0.58;
+    background-color: yellow;
+}
