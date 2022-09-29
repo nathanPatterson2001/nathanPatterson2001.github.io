@@ -19,10 +19,6 @@ h1 {
 
 .grow:hover { transform: scale(7); }
 
-@font-face {
-  font-family: myFirstFont;
-  src: url(sansation_light.woff);
-}
 
 p {
   font-family: Roboto;
