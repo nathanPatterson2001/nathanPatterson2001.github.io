@@ -15,7 +15,7 @@ h1 {
   font-size: 30px;
 }
 
-.grow { transition: all .2s ease-in-out; }
+.grow { transition: all .2s ease-in; }
 
 .grow:hover { transform: scale(7); }
 
