@@ -26,3 +26,8 @@ p {
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 font-family: 'Roboto', sans-serif;
+
+body {
+    margin-left: 1in;
+    margin-right: 1in;
+}
